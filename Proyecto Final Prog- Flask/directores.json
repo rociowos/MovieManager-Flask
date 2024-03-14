@@ -1,0 +1,34 @@
+[
+    {"directores":
+        [
+         {
+            "id":1,
+            "director":"Kevin Lima"
+         },
+         {
+            "id":2,
+            "director":"Christopher Nolan"
+         },
+         {
+            "id":3,
+            "director":"Justin Lin"
+         },
+         {
+            "id":4,
+            "director":"Kyle Newacheck"
+         },
+         {
+            "id":5,
+            "director":"M. Night Shyamalan"
+         },
+         {
+            "id":6,
+            "director":"Quentin Tarantino"
+         },
+         {
+            "id":7,
+            "director":"Chad Stahelski"
+         }
+        ]
+    }
+]

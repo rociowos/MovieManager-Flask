@@ -1,0 +1,114 @@
+[
+    {"peliculas":
+        [
+         {
+            "id":1,
+            "titulo":"Tarzan",
+            "anio":"1999",
+            "director":"Kevin Lima",
+            "actor":"",
+            "genero":"Drama",
+            "sinopsis":"Un bebé humano ha sido abandonado en plena selva. Unos gorilas deciden cuidarle como un hijo más.",
+            "link":"https://es.web.img3.acsta.net/pictures/14/03/17/11/47/596263.jpg",
+            "puntaje": "4.8/5"
+         },
+         {
+            "id":2,
+            "titulo":"Interestelar",
+            "anio":"2014",
+            "director":"Christopher Nolan",
+            "genero":"Ciencia Ficcion",
+            "actor":"Matthew McConaughey",
+            "sinopsis":"Un grupo de cientificos y exploradores, encabezados por Cooper, se embarcan en un viaje espacial para encontrar un lugar con las condiciones necesarias para reemplazar a la Tierra y comenzar una nueva vida alli. La Tierra esta llegando a su fin y este grupo necesita encontrar un planeta mas alla de nuestra galaxia que garantice el futuro de la raza humana.",
+            "link":"https://es.web.img3.acsta.net/pictures/14/10/02/11/07/341344.jpg",
+            "puntaje": "4.8/5"
+         },
+         {
+            "id":3,
+            "titulo":"Star treck",
+            "anio":"2016",
+            "director":"Justin Lin",
+            "genero":"Accion",
+            "actor":"Chris Pine",
+            "sinopsis":"El USS Enterprise, la nave insignia de la Flota Estelar liderada por el capitán James T. Kirk , vuelve a surcar el universo para asegurarse de la protección de la Tierra y del resto de planetas aliados. Pero la tranquilidad durará poco y el peligro acecha. ",
+            "puntaje": "3.5/5"
+         },
+         {
+            "id":4,
+            "titulo":"Misterio a Bordo",
+            "anio":"2020",
+            "director":"Kyle Newacheck",
+            "genero":"Comedia",
+            "actor":"Adam Sandler",
+            "sinopsis":"...En el bote conocen a un grupo de personas interesantes pero todo se vuelve un desastre cuando el matrimonio termina acusado injustamente y huyendo por la muerte del anciano multimillonario ",
+            "link":"https://pics.filmaffinity.com/Misterio_a_bordo-661435227-large.jpg",
+            "puntaje": "3/5"
+         },
+         {
+            "id":5,
+            "titulo":"Rapidos y Furiosos 9",
+            "anio":"2021",
+            "director":"Justin Lin",
+            "genero":"Accion",
+            "actor":"Vin Diesel",
+            "sinopsis":"Dom Toretto vive una vida tranquila junto a Letty y su hijo, pero el peligro siempre regresa a su vida. En esta ocasion, el equipo se enfrenta a un complot mundial orquestado por el asesino mas temible del mundo: el hermano de Dom.",
+            "puntaje": "3/5"
+         },
+         {
+            "id":6,
+            "titulo":"Fragmentado",
+            "anio":"2016",
+            "director":"M. Night Shyamalan",
+            "genero":"Suspenso",
+            "actor":"James McAvoy",
+            "sinopsis":"A pesar de que Kevin le ha demostrado a su psiquiatra de confianza, la Dra. Fletcher, que posee 23 personalidades diferentes, aún queda una por emerger, decidida a dominar a todas las demás. Obligado a raptar a tres chicas adolescentes encabezadas por la decidida y observadora Casey, Kevin lucha por sobrevivir contra todas sus personalidades y la gente que le rodea,",
+            "link":"https://static.wikia.nocookie.net/doblaje/images/8/8a/Fragmentado_Poster_Final_Latino_JPosters.JPG/revision/latest?cb=20170220211340&path-prefix=es",
+            "puntaje": "4/5"
+         },
+         {
+            "id":7,
+            "titulo":"Pulp Fiction",
+            "anio":"1994",
+            "director":"Quentin Tarantino",
+            "genero":"Crimen",
+            "actor":"Samuel L Jackson",
+            "sinopsis":"La vida de un boxeador, dos sicarios, la esposa de un ganster y dos bandidos se entrelaza en una historia de violencia y redencion.",
+            "link":"https://es.web.img2.acsta.net/pictures/17/06/12/10/21/182251.jpg",
+            "puntaje":"5/5"
+         },
+         {
+            "id":8,
+            "titulo":"Kill Bil",
+            "anio":"2003",
+            "director":"Quentin Tarantino",
+            "genero":"Accion",
+            "actor":"Uma Thurman",
+            "sinopsis":"Mamba Negra es una asesina que, el dia de su boda, es atacada por los miembros de la banda de su jefe, Bill. Sin embargo consigue sobrevivir, aunque queda en coma. Cinco anios despues despierta, con un deseo de venganza.",
+            "link":"https://es.web.img3.acsta.net/pictures/14/05/07/12/38/160972.jpg",
+            "puntaje":"4.8/5"
+         },
+         {
+            "id":9,
+            "titulo":"El origen",
+            "anio":"2010",
+            "director":"Christopher Nolan",
+            "genero":"Ciencia Ficcion",
+            "actor":"Leonardo DiCaprio",
+            "sinopsis":"Dom Cobb (Leonardo DiCaprio) es un ladron con una extrana habilidad para entrar a los suenos de la gente y robarle los secretos de sus subconscientes. Su habilidad lo ha convertido en un atractivo en el mundo del espionaje corporativo, pero ha tenido un gran costo en la gente que ama. Cobb tiene la oportunidad de ser perdonado cuando recibe una tarea imposible: plantar una idea en la mente de una persona. Si tiene exito, sera el crimen perfecto, pero un enemigo se anticipa a sus movimientos.",
+            "link":"https://es.web.img3.acsta.net/medias/nmedia/18/72/41/74/20198901.jpg",
+            "puntaje": "4.5/5"
+         },
+         {
+            "id":10,
+            "titulo":"Jhon Wick",
+            "anio":"2014",
+            "director":"Chad Stahelski",
+            "genero":"Accion",
+            "actor":"Keanu Reeves",
+            "sinopsis":"La ciudad de Nueva York se llena de balas cuando John Wick, un exasesino a sueldo, regresa de su retiro para enfrentar a los mafiosos rusos, liderados por Viggo Tarasov, que destruyeron todo aquello que él amaba y pusieron precio a su cabeza.",
+            "link":"https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/hc_280x437/public/media/image/2016/12/john-wick-otro-dia-matar.jpg?itok=5cu9xqQ_",
+            "puntaje":"5/5"
+         }
+        ]
+    }
+ ]

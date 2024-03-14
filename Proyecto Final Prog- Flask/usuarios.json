@@ -1,0 +1,21 @@
+[
+    {"usuarios":
+        [
+         {
+            "id":1,
+            "usuario":"nombre1",
+            "contrasenia":"programacion1"
+         },
+         {
+            "id":2,
+            "usuario":"nombre2",
+            "contrasenia":"programacion2"
+         },
+         {
+            "id":3,
+            "usuario":"nombre3",
+            "contrasenia":"programacion3"
+         }
+        ]
+    }
+]
