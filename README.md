@@ -23,3 +23,7 @@ Este proyecto es una aplicación web para la gestión de películas, diseñada p
 
 - Usuarios y Autenticación
 No se requiere la funcionalidad de registro de nuevos usuarios; se utiliza un conjunto de usuarios precargados que pueden acceder al sistema mediante una pantalla de login. Los usuarios no registrados pueden acceder al modo público.
+
+
+## Link de Postman:
+https://documenter.getpostman.com/view/24364633/2s93CLrYRo
